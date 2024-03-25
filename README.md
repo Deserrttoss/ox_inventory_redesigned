@@ -1,7 +1,6 @@
 # ox_inventory_redesigned
-Redesigned ox_inventory TROR Style
 
 
-Simple Redesign for Ox Inventory
+Simple Redesign for Ox Inventory Inspired by: TROR
 
 With love YM Development
